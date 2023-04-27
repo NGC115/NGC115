@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <div id="header" align="center">
-  <img scr="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200" />
+<img scr="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200" />
 <div/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngc115&label=Profile%20views&color=0e75b6&style=flat" alt="ngc115" /> </p>
